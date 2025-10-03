@@ -1,49 +1,61 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FF7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kinga+Hinzano;Software+Engineer+%7C+AI+Enthusiast;Building+Inclusive+%26+Impactful+Tech;Always+Learning+%26+Sharing)](https://git.io/typing-svg)
+# Hi there 👋
+
+## 🔗 About me
+
+- 🔒 I'm currently a student at gomycode
+- 🌱 I am a university cybersecurity student and a person with passion in tech.
+- 💡 Software Engineer | AI Enthusiast | Product Builder
+- 🌍 Building tools for **AI inclusivity**, **CyberSecurity**, and **accessible technology**
+- 📫 You can email me at: [hinzanno@gmail.com](mailto:hinzanno@gmail.com)
+
+## Languages and Tools:
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Khin-96&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khin-96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khin-96&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+## 🔗 Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chris-kinga/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
+<a href="https://hinzano.netlify.app" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="portfolio" width="40" height="40"/></a>
+<a href="https://github.com/Khin-96" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+</p>
+
+## Support:
+
+<p><a href="https://www.buymeacoffee.com/kingahinzano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+
+<br/><br/>
 
 ---
 
-# 👋 Welcome to my GitHub Profile  
-
-💡 *Software Engineer | AI Enthusiast | Product Builder*  
-
-🌍 Passionate about **AI for inclusivity**, **fintech innovation**, and **open-source projects**.  
-I love building tools that make technology accessible — from **academic collaboration platforms** to **financial advisors** and **voice technologies for underrepresented accents**.  
-
----
-
-## 🌐 Portfolio  
-[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-4FF7FF?style=for-the-badge)](https://hinzano.netlify.app)  
-
----
-
-## 🛠 Tech Stack & Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
-## 📊 GitHub Stats  
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Khin-96&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khin-96&layout=compact&theme=tokyonight) |
-|---|---|
-| ![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khin-96&theme=tokyonight) | ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khin-96&theme=tokyonight) |
-
----
-
-## 🔗 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-kinga/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hinzano.netlify.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khin-96)  
-
----
-
-⭐️ *Always open to collaboration on AI, fintech, and impactful tech projects.*  
+⭐️ *Always open to collaboration on AI, fintech, and impactful tech projects.*
