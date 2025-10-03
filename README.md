@@ -3,7 +3,7 @@
 ## 🔗 About me
 
 - 🔒 I'm currently a student at gomycode
-- 🌱 I am a university cybersecurity student and a person with passion in tech.
+- 🌱 I am a university AI student and a person with passion in cyberSec.
 - 💡 Software Engineer | AI Enthusiast | Product Builder
 - 🌍 Building tools for **AI inclusivity**, **CyberSecurity**, and **accessible technology**
 - 📫 You can email me at: [hinzanno@gmail.com](mailto:hinzanno@gmail.com)
@@ -58,4 +58,4 @@
 
 ---
 
-⭐️ *Always open to collaboration on AI, fintech, and impactful tech projects.*
+⭐️ *Always open to collaboration on AI and impactful tech projects.*
