@@ -2,7 +2,7 @@
 
 ## 🔗 About me
 
-- 🔒 I'm currently a student at gomycode
+- 🔒 I'm currently a student at gomycode and MKU
 - 🌱 I am a university AI student and a person with passion in cyberSec.
 - 💡 Software Engineer | AI Enthusiast | Product Builder
 - 🌍 Building tools for **AI inclusivity**, **CyberSecurity**, and **accessible technology**
