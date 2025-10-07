@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Chris Kinga
+# 👋 Hi, I'm Kinga
 
 ### 🔐 Software Engineer | AI Enthusiast | Cybersecurity Advocate
 
