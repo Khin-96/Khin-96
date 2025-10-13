@@ -10,7 +10,6 @@
   <a href="mailto:hinzanno@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Khin-96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -20,7 +19,7 @@
 
 ```yaml
 education:
-  - GoMyCode Bootcamp Student
+  - GoMyCode Bootcamp Student - CyberSecurity
   - MKU - AI & Computer Science
   
 focus_areas:
