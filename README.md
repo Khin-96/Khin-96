@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Kinga
+# 👋 Hellow, I'm Hinzano
 
-### 🔐 Software Engineer | AI Enthusiast | Cybersecurity Advocate
+###  Software Engineer | AI Enthusiast | Cybersecurity Advocate
 
 <p>
   <a href="https://www.linkedin.com/in/chris-kinga/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me !
 
 ```yaml
 education:
@@ -32,7 +32,7 @@ mission: "Building accessible, secure, and intelligent technology solutions"
 currently: "Exploring AI applications in cybersecurity"
 ```
 
-## 💻 Tech Stack
+## My Tech Stack
 
 ### Languages
 <p align="left">
@@ -78,7 +78,7 @@ currently: "Exploring AI applications in cybersecurity"
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
 
-## 📊 GitHub Analytics
+## My GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khin-96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
@@ -93,24 +93,24 @@ currently: "Exploring AI applications in cybersecurity"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khin-96&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
-## 🏆 GitHub Trophies
+## Trophies Earned
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Khin-96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Khin-96&theme=tokyonight" alt="Contribution Stats"/>
 </div>
 
-## 💡 Current Focus
+## Current Focus
 
-- 🤖 Building AI-powered cybersecurity tools
-- 🔒 Exploring penetration testing methodologies
-- 🌐 Developing full-stack applications with modern frameworks
-- 📚 Contributing to open-source AI and security projects
+-  Building AI-powered cybersecurity tools
+-  Exploring penetration testing methodologies
+-  Developing full-stack applications with modern frameworks
+-  Contributing to open-source AI and security projects
 
 ## 🤝 Let's Connect!
 
@@ -119,10 +119,10 @@ currently: "Exploring AI applications in cybersecurity"
 I'm always interested in collaborating on innovative projects, especially in **AI**, **cybersecurity**, and **social impact technology**.
 
 Feel free to reach out for:
-- 💼 Collaboration opportunities
-- 🎯 Tech discussions
-- 🚀 Project ideas
-- 📖 Knowledge sharing
+-  Collaboration opportunities
+-  Tech discussions
+-  Project ideas
+-  Knowledge sharing
 
 </div>
 
@@ -130,7 +130,7 @@ Feel free to reach out for:
 
 <div align="center">
 
-### ☕ Support My Work
+###  Support My Work
 
 <a href="https://www.buymeacoffee.com/kingahinzano">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
