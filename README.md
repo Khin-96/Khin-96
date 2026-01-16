@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hellow, I'm Hinzano
+# 👋 Heyy, I'm Hinzano
 
 ###  Software Engineer | AI Enthusiast | Cybersecurity Advocate
 
