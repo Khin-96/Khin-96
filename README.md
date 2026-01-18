@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Heyy, I'm Hinzano
+#  Heyy, I'm Hinzano
 
 ###  Software Engineer | AI Enthusiast | Cybersecurity Advocate
 
@@ -112,7 +112,7 @@ currently: "Exploring AI applications in cybersecurity"
 -  Developing full-stack applications with modern frameworks
 -  Contributing to open-source AI and security projects
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -142,6 +142,6 @@ Feel free to reach out for:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-⭐️ From [Khin-96](https://github.com/Khin-96) | Made with 💙 and ☕
+From [Khin-96](https://github.com/Khin-96) | Made with 💙 and ☕
 
 </div>
