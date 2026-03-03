@@ -89,44 +89,6 @@ currently: "Exploring AI applications in cybersecurity"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khin-96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khin-96&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-## Trophies Earned
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khin-96&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Khin-96&theme=tokyonight" alt="Contribution Stats"/>
-</div>
-
-## Current Focus
-
--  Building AI-powered cybersecurity tools
--  Exploring penetration testing methodologies
--  Developing full-stack applications with modern frameworks
--  Contributing to open-source AI and security projects
-
-##  Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects, especially in **AI**, **cybersecurity**, and **social impact technology**.
-
-Feel free to reach out for:
--  Collaboration opportunities
--  Tech discussions
--  Project ideas
--  Knowledge sharing
-
-</div>
-
----
 
 <div align="center">
 
@@ -137,10 +99,6 @@ Feel free to reach out for:
 </a>
 
 <br/><br/>
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 From [Khin-96](https://github.com/Khin-96) | Made with 💙 and ☕
 
