@@ -1,5 +1,3 @@
-<div align="center">
-
 #  Heyy, I'm Hinzano
 
 ###  Software Engineer | AI Enthusiast | Cybersecurity Advocate
@@ -9,9 +7,6 @@
   <a href="https://hinzanoo.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="mailto:hinzanno@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
-</div>
 
 ---
 
@@ -31,6 +26,8 @@ focus_areas:
 mission: "Building accessible, secure, and intelligent technology solutions"
 currently: "Exploring AI applications in cybersecurity"
 ```
+
+---
 
 ## My Tech Stack
 
@@ -78,19 +75,26 @@ currently: "Exploring AI applications in cybersecurity"
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
 
+---
+
 ## My GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khin-96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khin-96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khin-96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khin-96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khin-96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khin-96&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
+---
 
-<div align="center">
+##  Contribution Fireworks
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khin-96/Khin-96/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khin-96/Khin-96/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khin-96/Khin-96/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ###  Support My Work
 
@@ -98,8 +102,6 @@ currently: "Exploring AI applications in cybersecurity"
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
 </a>
 
-<br/><br/>
+<br/>
 
 From [Khin-96](https://github.com/Khin-96) | Made with 💙 and ☕
-
-</div>
